@@ -5,7 +5,7 @@ function rollDice() {
     
     switch(random){
     case 1: dice.setAttribute('src', 'images/dice1.svg'); 
-    //diceIsOne();
+    diceIsOne();
     break;
     case 2: dice.setAttribute('src', "images/dice2.svg");
     isPlayer1(2);

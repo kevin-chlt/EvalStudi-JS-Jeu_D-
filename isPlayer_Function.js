@@ -10,12 +10,12 @@ function isPlayer1(nb) {
     if(playerOne){
         currentScore1 += nb;
         currentCounter1.textContent = currentScore1;
-        dotPlayer1.setAttribute('class', 'w-6 h-6 bg-red-600 rounded-full border-black border-solid border mx-3');
+        dotPlayer1.setAttribute('class', 'w-2 h-2 md:w-6 h-6 bg-red-600 rounded-full border-black border-solid border mx-3');
         dotPlayer2.setAttribute('class',"");
     }else if(playerTwo){
         currentScore2 += nb;
         currentCounter2.textContent = currentScore2;
-        dotPlayer2.setAttribute('class', 'w-6 h-6 bg-red-600 rounded-full border-black border-solid border mx-3');
+        dotPlayer2.setAttribute('class', 'w-2 h-2 md:w-6 h-6 bg-red-600 rounded-full border-black border-solid border mx-3');
         dotPlayer1.setAttribute('class',"");
     }
 }

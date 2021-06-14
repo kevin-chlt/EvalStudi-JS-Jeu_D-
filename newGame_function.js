@@ -13,14 +13,14 @@ let globalScore2 = 0;
 
 newGameButton.addEventListener('click', newGame); 
 function newGame() {
-    infoPlayer.setAttribute('class', 'text-white bg-red-500 md:text-2xl sm:text-lg')
+    infoPlayer.setAttribute('class', 'mr-2 text-white bg-red-500 md:text-2xl sm:text-lg')
     infoPlayer.textContent = 'C\'est parti !';
     roll.addEventListener('click', rollDice);
     hold.addEventListener('click', holdFunction); 
     roll.setAttribute('class', 'cursor-pointer flex font-medium');
     hold.setAttribute('class', 'cursor-pointer flex my-6 font-medium');
     playerOne = true;
-    dotPlayer1.setAttribute('class', 'w-6 h-6 bg-red-600 rounded-full border-black border-solid border mx-3');
+    dotPlayer1.setAttribute('class', 'w-2 h-2 md:w-6 h-6 bg-red-600 rounded-full border-black border-solid border mx-3');
     dotPlayer2.setAttribute('class',"");
     playerTwo = false;
     resetGlobalCounter();
