@@ -27,13 +27,6 @@ function newGame() {
     resetCurrentCounter();
 }
 
-function resetCurrentCounter () {
-    currentScore1 = 0;
-    currentCounter1.textContent = currentScore1;
-    currentScore2 = 0;
-    currentCounter2.textContent = currentScore2;
-}
-
 function resetGlobalCounter(){
     globalScore1 = 0; 
     globalCounter1.textContent = globalScore1; 

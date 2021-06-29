@@ -15,3 +15,12 @@ function diceIsOne() {
             dotPlayer2.setAttribute('class',"");
         }
 }
+
+
+function resetCurrentCounter () {
+    currentScore1 = 0;
+    currentCounter1.textContent = currentScore1;
+    currentScore2 = 0;
+    currentCounter2.textContent = currentScore2;
+}
+
