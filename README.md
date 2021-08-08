@@ -13,7 +13,7 @@ de l’autre joueur de lancer le dè, s’il obtient un 1, son score ROUND est p
 Le premier joueur qui atteint les 100 points sur le score global gagne le jeu.
 
 
-###Présentation du projet
+### Présentation du projet
 
 Le projet contient 1 page html et plusieurs fonctions dont: 
 => La fonction "newGame" permettant de lancer une nouvelle partie, de remettre les variable à 0, et de débloquer les boutons d'actions.
