@@ -26,6 +26,8 @@ booléans déterminant à qui est-ce le tour. A chaque tour, la fonction "isWinn
  
 Le CSS à été réaliser avec Tailwind CSS.
 Le projet est responsive est adapté à tous les supports.
+Lien du projet: https://salty-island-31251.herokuapp.com/
 
 ---------------------------------------------------------------------
+![gameDice](https://user-images.githubusercontent.com/83563269/128638310-d5cea7d6-40fb-449c-8407-248158f55f09.PNG)
 
