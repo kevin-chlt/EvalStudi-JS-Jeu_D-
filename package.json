@@ -1,0 +1,23 @@
+{
+  "name": "game_dice",
+  "version": "1.0.0",
+  "description": "Simple game dice with JS vanilla",
+  "main": "index.php",
+  "dependencies": {
+    "tailwindcss": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-chlt/JS_Dice-Game.git"
+  },
+  "author": "Kevin CHALLIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-chlt/JS_Dice-Game/issues"
+  },
+  "homepage": "https://github.com/kevin-chlt/JS_Dice-Game#readme"
+}
