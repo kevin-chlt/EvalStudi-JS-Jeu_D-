@@ -1,4 +1,4 @@
-## Rendu d'évaluation d'entrainement Studi du 13 juin 2021.
+## Rendu d'évaluation d'entrainement Studi
 Etant éléve à l'école Studi, j'ai eu accès à une évaluation d'entrainement avant le passage à mon examen.  
 Elle portait sur le language HTML ainsi que JS et l'utilisation d'un framework CSS.
 
@@ -24,7 +24,7 @@ booléans déterminant à qui est-ce le tour. A chaque tour, la fonction "isWinn
 
 =>  Si l'un des joueurs clique sur "Hold", la fonction "HoldFunction" s'occupera de changer les booleans des joueurs et de rajouter le score du ROUND à la variable GLOBAL.
  
-Le CSS à été réaliser avec Tailwind CSS.
+Le CSS à été réalisé avec Tailwind CSS.
 Le projet est responsive est adapté à tous les supports.
 Lien du projet: https://salty-island-31251.herokuapp.com/
 
